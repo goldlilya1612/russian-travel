@@ -26,10 +26,6 @@
 }
 
 @media screen and (min-width: 768px) {
-  .cover {
-    margin-top: 90px;
-  }
-
   .cover:hover::before {
     opacity: 0.8;
   }
@@ -38,13 +34,6 @@
     cursor: pointer;
   }
 }
-
-@media screen and (min-width:1024) {
-  .cover {
-    margin-top: 92px;
-  }
-}
-
 
 @media screen and (min-width:1280px) {
   .cover {
