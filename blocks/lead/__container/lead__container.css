@@ -1,0 +1,15 @@
+.lead__container {
+  padding: 0;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead__container {
+    padding: 0 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__container {
+    padding: 0 148px;
+  }
+}
