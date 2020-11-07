@@ -1,6 +1,7 @@
 .header {
     min-height: 42px;
-    margin: 16px auto 0 auto;
+    margin: 0 auto;
+    padding-top: 16px;
     display: flex;
     justify-content: space-between;
 }
@@ -9,6 +10,7 @@
     .header {
         width: 90%;
         height: 52px;
+        padding-top: 28px;
     }
 }
 
@@ -16,6 +18,7 @@
     .header {
         width: 93.75%;
         height: 52px;
+        padding-top: 28px;
     }
 }
 
@@ -23,6 +26,7 @@
     .header {
         width: 90.625%;
         height: 52px;
+        padding-top: 28px;
     }
 }
 
@@ -30,5 +34,6 @@
     .header {
         width: 92.5%;
         height: 52px;
+        padding-top: 28px;
     }
 }
